@@ -1,4 +1,4 @@
-# Анализ вакансий из HeadHunter (Блок 2. Подгрузка данных)
+# PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/step4k777/Project-3/blob/master/README.md#Описание-проекта)  
